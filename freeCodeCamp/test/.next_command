@@ -187,3 +187,45 @@ mkdir client/assets/icons
 mv CodeAlly.svg icons
 find
 find -name CodeAlly.svg
+mv CodeAlly.svg client/assets/icons
+cd icons
+ls --color=auto
+cd iconss
+cd icons
+rmdir icons
+ls --color=auto
+find CodeAlly.svg
+find C-name CodeAlly
+find C-name CodeAlly.svg
+find -a
+find --all
+ls --color=auto -all
+cd client
+ls --color=auto
+cd assets
+ls --color=auto
+cd icons
+ls --color=auto
+cd ../../../
+touch CodeAlly.svg client/assets/icons
+cd clients/assets/icons
+ls --color=auto
+client
+cd client
+ls --color=auto
+cd assets
+ls --color=auto
+cd icons
+ls --color=auto
+touch CodeAlly.svg
+ls --color=auto
+cd ../../../
+find
+ls --color=auto
+rm CodeAlly.svg
+ls --color=auto
+mv CodeRoad.svg clients/assets/icons
+mv ./CodeRoad.svg clients/assets/icons
+mv ./CodeRoad.svg client/assets/icons
+find
+mv ./freeCodeCamp.svg client/assets/icons
