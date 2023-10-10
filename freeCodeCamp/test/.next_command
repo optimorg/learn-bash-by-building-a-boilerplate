@@ -238,3 +238,4 @@ __vsc_prompt_cmd_original
 touch lato-bold.ttf client/assets/fonts
 touch lato-light.ttf client/assets/fonts
 find
+find client/assets/fonts
