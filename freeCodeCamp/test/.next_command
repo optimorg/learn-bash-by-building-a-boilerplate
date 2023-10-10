@@ -182,3 +182,6 @@ rmdir images
 ls --color=auto
 ls --color=auto
 ls --color=auto
+find
+mkdir client/assets/icons
+mv CodeAlly.svg icons
