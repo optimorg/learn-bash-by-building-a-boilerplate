@@ -239,3 +239,22 @@ touch lato-bold.ttf client/assets/fonts
 touch lato-light.ttf client/assets/fonts
 find
 find client/assets/fonts
+ls --color=auto
+ls --color=auto client/assets/fonts
+find -name fonts
+cd client/assets/fonts
+ls --color=auto
+cd ..
+cd ../..
+ls --color=auto
+mv ./lato-light.ttf client/assets/fonts
+mv ./lato-bold.ttf client/assets/fonts
+mv .roboato-boldwofff client/assets/fonts
+mv ./roboto-bold.wofff client/assets/fonts
+__vsc_prompt_cmd_original
+cd client/assets/fonts
+ls --color=auto
+touch roboto-bold.woff
+touch roboto-light.ttf
+ls --color=auto
+rm --help
