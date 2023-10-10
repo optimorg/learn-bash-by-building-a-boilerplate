@@ -277,3 +277,6 @@ touch server.js
 touch README.md
 ls --color=auto
 rmdir icons
+cd icons
+echo Yay!
+echo I finished the boilerplate!
