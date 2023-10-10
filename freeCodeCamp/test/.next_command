@@ -234,3 +234,5 @@ mkdir client/assets/fonts
 touch roboto-bold.woff client/assets/fonts
 touch roboto-bollightff client/assets/fonts
 find client/assets/fonts
+__vsc_prompt_cmd_original
+touch lato-bold.ttf client/assets/fonts
