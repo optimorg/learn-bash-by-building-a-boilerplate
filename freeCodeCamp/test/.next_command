@@ -181,3 +181,4 @@ cd ..
 rmdir images
 ls --color=auto
 ls --color=auto
+ls --color=auto
