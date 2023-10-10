@@ -231,3 +231,4 @@ find
 mv ./freeCodeCamp.svg client/assets/icons
 find
 mkdir client/assets/fonts
+touch roboto-bold.woff client/assets/fonts
