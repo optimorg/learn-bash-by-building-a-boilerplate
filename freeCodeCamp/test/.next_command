@@ -258,3 +258,17 @@ touch roboto-bold.woff
 touch roboto-light.ttf
 ls --color=auto
 rm --help
+cd ../../../
+ls --color=auto
+rm roboto-bold.woff
+ls --color=auto
+rm roboto-bollightff
+ls --color=auto
+rmdir fonts --f
+rm fonts --f
+rmdir --help
+rmdir fonts -r
+rmdir fonts --r
+rm fonts --r
+ls --color=auto
+ls --color=auto
