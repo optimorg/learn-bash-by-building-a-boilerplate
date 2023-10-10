@@ -129,3 +129,4 @@ ls --color=auto
 mv loto.font lato.ttf
 ls --color=auto
 mkdir fonts
+ls --color=auto
