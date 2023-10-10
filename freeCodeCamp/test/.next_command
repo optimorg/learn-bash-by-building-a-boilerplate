@@ -272,3 +272,4 @@ rmdir fonts --r
 rm fonts --r
 ls --color=auto
 ls --color=auto
+touch package.json
