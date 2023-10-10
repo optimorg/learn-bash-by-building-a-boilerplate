@@ -170,3 +170,4 @@ ls --color=auto
 mv images/footer.jpg client/assets/images
 mv images/footer.jpeg client/assets/images
 find
+rmdir images
