@@ -174,3 +174,6 @@ rmdir images
 ls --color=auto
 rmdir images
 cd images
+rm background.jpg
+ls --color=auto
+rmdir images
